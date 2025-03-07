@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "d:\\java\\mysql-connector-java-8.0.28\\mysql-connector-java-8.0.28.jar"
+        ]
+    }
+}
